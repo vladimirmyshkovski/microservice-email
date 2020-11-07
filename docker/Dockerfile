@@ -26,7 +26,7 @@ RUN make
 
 FROM alpine:3.11
 
-LABEL Author="Sergio Andres Virviescas Santana <developersavsgio@gmail.com>"
+LABEL Author="Sergio Andres Virviescas Santana <developervladimirmyshkovski@gmail.com>"
 
 COPY --from=builder /usr/src/microservice-email/ /microservice-email
 

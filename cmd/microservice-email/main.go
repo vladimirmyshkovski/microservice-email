@@ -7,9 +7,9 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/savsgio/go-logger/v2"
-	"github.com/savsgio/microservice-email/internal/api"
-	"github.com/savsgio/microservice-email/internal/lib"
+	"github.com/vladimirmyshkovski/go-logger/v2"
+	"github.com/vladimirmyshkovski/microservice-email/internal/api"
+	"github.com/vladimirmyshkovski/microservice-email/internal/lib"
 )
 
 var version, build string

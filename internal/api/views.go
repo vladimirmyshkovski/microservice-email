@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/savsgio/atreugo/v11"
-	"github.com/savsgio/microservice-email/internal/lib"
+	"github.com/vladimirmyshkovski/atreugo/v11"
+	"github.com/vladimirmyshkovski/microservice-email/internal/lib"
 )
 
 // SendEmailView is a view that receive a request and send an email

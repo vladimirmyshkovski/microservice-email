@@ -1,8 +1,8 @@
 # microservice-email
 
-[![Build Status](https://travis-ci.org/savsgio/microservice-email.svg?branch=master)](https://travis-ci.org/savsgio/microservice-email)
-[![Go Report Card](https://goreportcard.com/badge/github.com/savsgio/microservice-email)](https://goreportcard.com/report/github.com/savsgio/microservice-email)
-[![GitHub release](https://img.shields.io/github/release/savsgio/microservice-email.svg)](https://github.com/savsgio/microservice-email/releases)
+[![Build Status](https://travis-ci.org/vladimirmyshkovski/microservice-email.svg?branch=master)](https://travis-ci.org/vladimirmyshkovski/microservice-email)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vladimirmyshkovski/microservice-email)](https://goreportcard.com/report/github.com/vladimirmyshkovski/microservice-email)
+[![GitHub release](https://img.shields.io/github/release/vladimirmyshkovski/microservice-email.svg)](https://github.com/vladimirmyshkovski/microservice-email/releases)
 
 Microservice to send emails
 

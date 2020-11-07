@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   microservice-email:
-    image: savsgio/microservice-email
+    image: vladimirmyshkovski/microservice-email
     build:
       context: ../
       dockerfile: docker/Dockerfile
